@@ -29,6 +29,8 @@ o Una imagen
 ![imagen](./logo_ies.jpg)
 
 o Una tabla
+
 | lunes | martes | miercoles | jueves | viernes | FIESTA |
+|-------|--------|-----------|--------|---------|--------|
 | 1ºclas| 1º clas | 1º clas | 1º clas | 1º clas | mas |
 | 2ºclas| 2º clas | 2º clas | 2º clas | 2º clas | mas |
